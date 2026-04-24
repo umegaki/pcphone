@@ -29,10 +29,14 @@
 * 半導体スイッチではなくメカニカルリレーを使用した理由は、できるだけ電話機本体と疎結合にすること、サージなどの影響を受けても発火・感電事故などが起きにくくするためです。
 * 電話機との接続には、14ピンのフラットケーブルを使用していますが、ケーブルやボックスヘッダーが秋月電子通商で安価に購入できることが理由です。
 * タカチ電機工業 LC型ハンドタイププラスチックケース(オフホワイト) LC135H-N-W に収まるようにJLCPCBでプリント基板を製造しました。
+  
+<img width="512" height="292" alt="pc-phone hardware" src="https://github.com/user-attachments/assets/25e06821-106b-464d-9c25-76673064fcd4" />
 
 # PcPhone Windows アプリケーション
 
 * USB 仮想シリアルポートを介して、コントローラにコマンド文字を送信することで、電話機を操作します。
+
+<img width="450" height="401" alt="pc-phone-winapp-s" src="https://github.com/user-attachments/assets/d935e923-ed27-4c79-8939-0e7d42002cc5" />
 
 # 固定電話機
 
