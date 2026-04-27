@@ -2,6 +2,8 @@
 * PC Phone is a telephone assist device for physical disabilities. 
 * PCホンは、肢体不自由のために固定電話機の操作ができない人が、PCから固定電話を操作できるようにするデバイスです。
 
+* 原則として、オープンハードウェアとして公開していますが、ライセンス条件は、まだ書きかけです。変更される可能性があります。
+
 # 構成
 
 次の3つで構成されます。
@@ -54,4 +56,12 @@ PCからのコマンドを受け付けて、電話機のボタンを押すため
 * PcPhoneBOM.csv 部品表
 * pcphone-arduino.ino Arduinoプログラムソースコード
 
+基板データは、Arduino D0 D1 を D12 D11 に変更する前のものです。そのまま使用するときは、基板のパターン2本をカットして、ジャンパーで修正する必要があります。
 Windowsアプリケーションのソースコードは、準備できましたら公開します。
+
+# 作者について
+* この公開情報は、[https://github.com/umegaki/pcphone/] です。
+* 作者のサイトは、[https://www.umegaki.jp/] です。
+
+
+
