@@ -1,4 +1,4 @@
-# PcPhone
+# PCPhone とは
 * PC Phone is a telephone assist device for physical disabilities. 
 * PCホンは、肢体不自由のために固定電話機の操作ができない人が、PCから固定電話を操作できるようにするデバイスです。
 * 原則として、オープンハードウェアとして公開していますが、ライセンス条件は、まだ書きかけです。変更される可能性があります。
