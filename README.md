@@ -46,3 +46,12 @@ PCからのコマンドを受け付けて、電話機のボタンを押すため
 * 国産で、技適があり、アダプタ不要で回線だけで動作する、ハンズフリー機能のあるものを選択しました。
 * この電話機の制御には、Silan Semiconductor 社の SC91415 が使用されています。
 * ここにデータシートがあります。[https://www.digchip.com/datasheets/parts/datasheet/433/SC91415-pdf.php]
+
+# ファイルの説明
+
+* Pc-Phone.kicad_pcb KiCADの基板データ
+* PcPhone.kicad_sch KiCADの回路図、PcPhone_sch.pdf 回路図のPDF
+* PcPhoneBOM.csv 部品表
+* pcphone-arduino.ino Arduinoプログラムソースコード
+
+Windowsアプリケーションのソースコードは、準備できましたら公開します。
