@@ -1,5 +1,5 @@
 # PcPhone
-* PC Phone is a telephone assist device for physical disabilities 
+* PC Phone is a telephone assist device for physical disabilities. 
 * PCホンは、肢体不自由のために固定電話機の操作ができない人が、PCから固定電話を操作できるようにするデバイスです。
 
 # 構成
